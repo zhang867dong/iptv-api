@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-28 18:51:50,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2026-03-01 06:47:52,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -896,8 +896,8 @@ CETV4,rtsp://221.7.61.147/PLTV/88888910/224/3221225594/1000010000000006000000000
 第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=62e21890acbd9928d0be0b4eae9f5e32e1879604b785ee7ce8751d5001a9ff431d7714025aa03d48a2b190ff214e5115dcb6ba455c3d26b1db0f5b3cb49c5967429ff3b1fe8e96e87cc6146543$订阅源
 第一财经,http://nas.suntao.online:35455/itv/5000000010000027146.m3u8?cdn=bestzb$订阅源
 第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8$订阅源
-第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8$订阅源
 第一财经,http://live.xmcdn.com/live/56/64.m3u8$订阅源
+第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8$订阅源
 都市剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil$订阅源
 都市剧场,rtsp://115.153.254.81/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil$订阅源
 都市剧场,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil$订阅源
@@ -974,6 +974,7 @@ CETV4,rtsp://221.7.61.147/PLTV/88888910/224/3221225594/1000010000000006000000000
 江苏教育,http://z.b.bkpcp.top/m.php?id=jsjy$订阅源
 江苏教育,http://goo.bkpcp.top/mg/jsjy$订阅源
 泗洪新闻综合,rtmp://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe$订阅源
+泗阳综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1$订阅源
 涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8$订阅源
 涟水电视台综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw$订阅源
 涟水综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8$订阅源
@@ -983,9 +984,10 @@ CETV4,rtsp://221.7.61.147/PLTV/88888910/224/3221225594/1000010000000006000000000
 淮安新闻综合,http://z.b.bkpcp.top/m.php?id=haxwzh$订阅源
 淮安新闻综合,http://live1.habctv.com/zhpdsl/sd/live.m3u8?zjiangsd$订阅源
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8$订阅源
-溧水新闻综合,http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8$订阅源
 溧水新闻综合,https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8$订阅源
+溧水新闻综合,http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8$订阅源
 滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8$订阅源
+睢宁三农,http://3739115337.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=nwEAAJApyIx-AKAX&secondToken=secondToken%3AfyPrvACXUQ_VSZUu3Rxm-2py1fo&streamid=suining-tv%3Asuining-tv%2Fsuiningsn&v3=1$订阅源
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8$订阅源
 苏州文化生活,rtmp://csztv.2500sz.com/live/c03$订阅源
 苏州新闻综合,http://z.b.bkpcp.top/m.php?id=szxwzh$订阅源
@@ -1975,6 +1977,7 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 音乐现场,rtsp://115.153.233.154/PLTV/88888888/224/3221227001/86441055.smil$订阅源
 音乐之声,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
 音乐之声,http://live.xmcdn.com/live/1205/64.m3u8$订阅源
+潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8$订阅源
 
 🏛经典剧场,#genre#
 笑傲江湖,http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c53_lb_66_600_t10/hFoXfOtz8MBwUY741trArb4J6PsPW0LK1liscXEOwoKxhjguVEokVYp_Zc6s0nWbul0tFCgdPtieWgQKfa2f7BmWrzSGgTeDt0ZjdiXL4nNHKmcfy_I7k6ZeKF8aUI7VBKIpO8Sozf4hCWiDnnOw5alAqeFKTAJNGd8d71tww4KtDk_AUWyUWIj7FtVx8kRU2SPgM8ArtgYxPOj2oHuPApSMiaszJCK5SBD6KBhiOQ3wFCf6_SoShTMDxiTp0CzXGNqk_xrKC8ESMLNQ7Kg/1dca8aaf1a2821177f37b7cafeae04b00/c53_lb_66_600_t10.m3u8?key=0d316ff9e8569395e30d65ef9835b4d15&dis_t=1669616005&random=1&z=live_alicdn_coc_cn_north_ct&pv=0.2$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
