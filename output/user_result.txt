@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-08 06:50:04,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2026-03-08 18:52:44,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -909,7 +909,6 @@ CETV4,rtsp://221.7.61.147/PLTV/88888910/224/3221225594/1000010000000006000000000
 都市剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000412?AuthInfo=xxx&userid=gf001&userid=gf001$订阅源
 
 ☘️重庆频道,#genre#
-璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd$订阅源
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd$订阅源
 重庆汽摩,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=gf001&userid=gf001$订阅源
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
@@ -984,8 +983,9 @@ CETV4,rtsp://221.7.61.147/PLTV/88888910/224/3221225594/1000010000000006000000000
 淮安新闻综合,http://z.b.bkpcp.top/m.php?id=haxwzh$订阅源
 淮安新闻综合,http://live1.habctv.com/zhpdsl/sd/live.m3u8?zjiangsd$订阅源
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8$订阅源
-溧水新闻综合,https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8$订阅源
 溧水新闻综合,http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8$订阅源
+溧水新闻综合,https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8$订阅源
+滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8$订阅源
 睢宁三农,http://3739115337.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=nwEAAJApyIx-AKAX&secondToken=secondToken%3AfyPrvACXUQ_VSZUu3Rxm-2py1fo&streamid=suining-tv%3Asuining-tv%2Fsuiningsn&v3=1$订阅源
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8$订阅源
 苏州文化生活,rtmp://csztv.2500sz.com/live/c03$订阅源
@@ -995,10 +995,10 @@ CETV4,rtsp://221.7.61.147/PLTV/88888910/224/3221225594/1000010000000006000000000
 苏州社会经济,rtmp://csztv.2500sz.com/live/c02$订阅源
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv$订阅源
 连云港新闻综合,http://z.b.bkpcp.top/m.php?id=lygxwzh$订阅源
-镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8$订阅源
 镇江二套社会民生,http://cm-wshls.homecdn.com/live/2aa16.m3u8$订阅源
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&amp;wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0$订阅源
+镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8$订阅源
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8$订阅源
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&amp;wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0$订阅源
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8$订阅源
 靖江新闻综合,https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8$订阅源
 
@@ -1074,6 +1074,9 @@ CETV4,rtsp://221.7.61.147/PLTV/88888910/224/3221225594/1000010000000006000000000
 南宁影视娱乐,rtmp://hls.nntv.cn/nnlive/YSYL_244$订阅源
 
 ☘️天津频道,#genre#
+滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd$订阅源
+滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8?ztianjd$订阅源
+滨海影院,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd$订阅源
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd$订阅源
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459$订阅源
 天津卫视,http://j.x.bkpcp.top/jx/TIANJHD$订阅源
